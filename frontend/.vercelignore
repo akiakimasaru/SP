@@ -1,0 +1,6 @@
+# Vercelで無視するファイル
+node_modules
+.next
+.env*.local
+.DS_Store
+*.log
